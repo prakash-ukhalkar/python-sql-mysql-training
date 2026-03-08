@@ -30,21 +30,10 @@ By the end of this training, participants should be able to:
 ```text
 SQL_MySQL_Trainings/
 |-- datasets/                    # Training datasets (currently empty placeholder)
-|-- docs/
-|   |-- imgs/                    # Installation reference screenshots
-|   |-- day1_sql_mysql_demo_script.docx
-|   `-- day1_sql_mysql_demo_script.pdf
 |-- images/                      # Additional image assets (currently empty placeholder)
-|-- installer/
-|   |-- mysql-installer-web-community-8.0.45.0.msi
-|   |-- mysql-workbench-community-8.0.46-winx64.msi
-|   `-- Port 3306.txt            # Local setup reference values
 |-- notebooks/
 |   `-- day1_sql_mysql_python_notebook.ipynb
 |-- scripts/                     # Optional scripts (currently empty placeholder)
-|-- slides/
-|   |-- day1_sql_mysql_training.pdf
-|   `-- day1_sql_mysql_training.pptx
 |-- LICENSE
 `-- README.md
 ```
@@ -145,7 +134,7 @@ Core topic coverage includes:
 
 ## Instructor
 
-**Prakash K. Ukhalkar**  
+**Prakash Ukhalkar**  
 Assistant Professor (MCA)  
 Researcher in Data Science and Machine Learning
 
